@@ -11,6 +11,8 @@ From  responses I learned that:
  - Any  integer  sooner or later will appear in some $\mathcal{U}(n,b)$
 
 More specifically, we will interest when a given integer $z$ *first appears* in some $\mathcal{U}(n,b)$.  
+Here is Mathematica notebook with general functions and some results.  
+
 In general, we could consider $b<0$.  
 And here is partial table of first appearances of succesfull $z$ for $-10 \leq b \leq 10$:  
 
