@@ -10,3 +10,7 @@ From  responses I learned that:
  iff there are no carries when multiplying prime factors of $n$ (in base $b$)
  - Any  integer  sooner or later will appear in some $\mathcal{U}(n,b)$
 
+More specifically, we will interest when a given integer $z$ *first appears* in some $\mathcal{U}(n,b)$.  
+In general, we could consider $b<0$.  
+And here is partial table of first appearances of succesfull $z$ for $-10 \leq b \leq 10$:  
+
