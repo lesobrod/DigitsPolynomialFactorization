@@ -1,6 +1,8 @@
 # Factorization of Polynomials from integer digits
 
 Let $n,b\in\mathbb{N}$ and $P_{n_b}$ is polynomial whose coefficients *are digits* of $n$ in base $b$.  
+So $n=n_{0}n_{1}\dots n_{k} = n_{0}+n_{1}\cdot b+n_{2}\cdot b^2+\dots+n_{k}\cdot b^k \Rightarrow$  
+$\Rightarrow  n_{0}+n_{1}\cdot x+n_{2}\cdot x^2+\dots+n_{k}\cdot x^k$  
 Let $Q_{1}(x) \cdot Q_{2}(x) \cdots Q_{m}(x)$ - polynomial factorization (over integers) of $P_{n_b}$.  
 I'm interested in *coefficients of such factorization*, especially *union of all factor's coefficients* $\mathcal{U}(n,b)$ of a given polynomial.  
 
@@ -11,7 +13,6 @@ From  responses I learned that:
  - Any  integer  sooner or later will appear in some $\mathcal{U}(n,b)$
 
 More specifically, we will interest when a given integer $z$ *first appears* in some $\mathcal{U}(n,b)$.  
-Here is Mathematica notebook with general functions and some results.  
 
 In general, we could consider $b<0$.  
 And here is partial table of first appearances of succesfull $z$ for $-10 \leq b \leq 10$:   
