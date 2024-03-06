@@ -1,6 +1,7 @@
 # Base 10 data
 There are certainly patterns, but no one has yet been able to formulate them.  
-Without them, scanning is already difficult. Last result (05.03.2024) is $z=-19, n=308 908 039$
+Without ideas about possible patterns, brute-force scanning is already difficult.  
+Last result (05.03.2024) is $z=-19, n=308 908 039$
 ## First appearance of integers
 | Integer | Number |
 |---|---|
