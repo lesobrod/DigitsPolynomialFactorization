@@ -38,4 +38,6 @@ And here is partial table of first appearances of succesfull $z$ for $-10 \leq b
 
 Obviously there are patterns in this data, but it is difficult to figure out them yet.   
 [Mathematica notebook](PolyFactorsGit.nb)   
+Although Python (and eg Julia) is thought to work faster, in this case  
+*factorization over integers* is very optimized and fast with Wolfram Language.  
 [Detailed data for base 10](Base10.md)
