@@ -36,4 +36,6 @@ And here is partial table of first appearances of succesfull $z$ for $-10 \leq b
 | 9 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 0 | -1 | -2 | -3 | -4 | -5 | -6 | -7 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | -8 |  |  |  |
 | 10 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | -1 | -2 | -3 | -4 | -5 | -6 | -7 | -8 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |  |
 
-
+Obviously there are patterns in this data, but it is difficult to figure out them yet.   
+[Mathematica notebook](PolyFactorsGit.nb)
+[Detailed data for base 10](Base10.md)
